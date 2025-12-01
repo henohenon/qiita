@@ -4,7 +4,7 @@ tags:
   - '一人アドベントカレンダー'
 private: true
 updated_at: ''
-id: 'star-hourglass'
+id: null
 organization_url_name: null
 slide: false
 ignorePublish: false

@@ -5,7 +5,7 @@ tags:
   - '自己紹介'
 private: true
 updated_at: ''
-id: 'wanna-be'
+id: null
 organization_url_name: null
 slide: false
 ignorePublish: false
