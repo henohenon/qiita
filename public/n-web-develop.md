@@ -4,7 +4,7 @@ tags:
   - '一人アドベントカレンダー'
 private: true
 updated_at: ''
-id: web-develop
+id: 'web-develop'
 organization_url_name: null
 slide: false
 ignorePublish: false
