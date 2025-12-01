@@ -1,7 +1,7 @@
 ---
 title: 星時計
 tags:
-  - ''
+  - '一人アドベントカレンダー'
 private: true
 updated_at: ''
 id: star-hourglass

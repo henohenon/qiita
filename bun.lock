@@ -1,8 +1,7 @@
 {
-  "lockfileVersion": 1,
+  "lockfileVersion": 0,
   "workspaces": {
     "": {
-      "name": "qiita",
       "dependencies": {
         "@qiita/qiita-cli": "^1.6.2",
       },

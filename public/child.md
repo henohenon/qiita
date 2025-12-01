@@ -1,7 +1,7 @@
 ---
 title: 幼年期
 tags:
-  - ''
+  - '一人アドベントカレンダー'
 private: true
 updated_at: ''
 id: child

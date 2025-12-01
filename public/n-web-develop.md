@@ -1,7 +1,7 @@
 ---
 title: Web開発
 tags:
-  - ''
+  - '一人アドベントカレンダー'
 private: true
 updated_at: ''
 id: web-develop
