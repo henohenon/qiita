@@ -3,7 +3,7 @@ title: Web開発
 tags:
   - 一人アドベントカレンダー
 private: true
-updated_at: '2025-12-01T23:16:08+09:00'
+updated_at: ''
 id: 5acadec0a5d99c9ec860
 organization_url_name: null
 slide: false

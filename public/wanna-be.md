@@ -4,7 +4,7 @@ tags:
   - 自己紹介
   - 一人アドベントカレンダー
 private: true
-updated_at: '2025-12-01T23:16:09+09:00'
+updated_at: ''
 id: 62dcf553cf19c9ba68fd
 organization_url_name: null
 slide: false
