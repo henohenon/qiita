@@ -3,8 +3,8 @@ title: 一人アドカレギリギリ始まった
 tags:
   - 自己紹介
   - 一人アドベントカレンダー
-private: true
-updated_at: ''
+private: false
+updated_at: '2025-12-02T23:57:36+09:00'
 id: 62dcf553cf19c9ba68fd
 organization_url_name: null
 slide: false
