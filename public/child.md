@@ -2,9 +2,9 @@
 title: こどものころ
 tags:
   - 一人アドベントカレンダー
-private: true
+private: false
 updated_at: '2025-12-01T23:16:09+09:00'
-id: 989dd555af1e7a9c699c
+id: null
 organization_url_name: null
 slide: false
 ignorePublish: false
