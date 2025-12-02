@@ -22,7 +22,7 @@ ignorePublish: false
 # Unityのすゝめ
 ある時、Unityの教科書を与えられました。
 
-https://www.amazon.co.jp/Unity%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-Unity-2022%E5%AE%8C%E5%85%A8%E5%AF%BE%E5%BF%9C%E7%89%88-%E5%8C%97%E6%9D%91%E6%84%9B%E5%AE%9F/dp/4815617155/ref=asc_df_4815617155?mcid=0ad97d76dd723ab993142990632b8945&tag=jpgo-22&linkCode=df0&hvadid=707442440784&hvpos=&hvnetw=g&hvrand=8490301728787754742&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9176415&hvtargid=pla-1655362668947&psc=1&hvocijid=8490301728787754742-4815617155-&hvexpln=0
+https://www.sbcr.jp/product/4815621360/
 
 こういうやつ。現物は軽く探したのですが、奥深くに仕舞い込まれてしまった模様……捨ててはないと思うんだけどな〜。見つかったら上げておきます。
 
@@ -34,59 +34,59 @@ https://www.amazon.co.jp/Unity%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-Unity-2022%E5
 ## タイトル
 タイトル画面。タイトルは「ステージ5の難易度が異常なくそアクションゲー。」ほんまかな。
 
-// タイトル画像
+![タイトル画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/title.png)
 
 矢印キー移動で操作説明。わりとちゃんと作ってあってえらい。
 
-// 操作説明画像
+![操作説明画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/how_to_play.png)
 
 ## 複数フォーム
 フォームはクウガオマージュ。マイティ、ドラゴン、ペガサス、タイタン。装飾の向きとかが地味に違ったりする。
 
-// マイティgif
-// ドラゴンgif
-// ペガサスgif
-// タイタンgif
+![マイティgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/maity.gif)
+![ドラゴンgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/dragon.gif)
+![ペガサスgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/pegasus.gif)
+![タイタンgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/titan.gif)
 
 ## ステージ1
 純粋にジャンプ。
 
-// ステージ1gif
+![ステージ1gif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage01.gif)
 
 ## ステージ2
 動く足場。このゲーム、ジャンプの効きが悪くて辛い；； FixedUpdateで判定取ったりしちゃってるのかなぁ。
 
-// ステージ2gif
+![ステージ2gif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage02.gif)
 
 ## ステージ3
 この時点でなんか難易度おかしい。
 
 落ちる足場がある。
-// ステージ3落ちる足場gif
+![ステージ3落ちる足場gif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage03-break-ground-wall.gif)
 
 スイッチを押してから戻るというギミックっぽい。難しすぎるだろ。
-// ステージ3全体画像
-// ステージ3クリアgif
+![ステージ3全体画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage03.png)
+[ステージ3クリアgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage03-asretick-clear.gif)
 
 ## ステージ4
 謎解き面。ペガサスがあんま意味ないなぁと思い、急遽増設した記憶。
 
-// ステージ4全体画像
-// ステージ4クリアgif
+![ステージ4全体画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage04.png)
+![ステージ4クリアgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage04.gif)
 
 ワンチャン、アクションでもいけるのだろうか。
-// ステージ4アクションgif
+![ステージ4アクションgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage04-fight.gif)
 
 ## ステージ5
 出たな、迷宮面。これ作るの楽しかったな〜。作るのにゲーム本体と他のレベルより絶対時間かかった。レベルデザインとかは全くないので、私もクリアできたことはないです。
 
-// ステージ5画像
+![ステージ5画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage05.png)
 
 えーで詳細と行きたいんですがね、もうそんな時間がない！！！！
 - ざっくり、ステージのサイズが5倍
 - 想定クリアまでの時間は今までのステージの30倍。20分とか。
 - 即死あり、初見殺しあり、遅延あり、運ゲーあり、理不尽な謎解きあり。
-// ステージ5空画像
+![ステージ5空画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage05-sky.png)
 どこかで攻略記事とかを別で出すかも？
 
 ## その他
@@ -130,7 +130,7 @@ public class pleyercont : MonoBehaviour
     {
         return stagew;
     }
-    // Start is called before the first frame update
+    Start is called before the first frame update
     void Start()
     {
         chan = GameObject.Find("change");
@@ -152,7 +152,7 @@ public class pleyercont : MonoBehaviour
         this.GetComponent<Renderer>().material = _material[coler];
     }
     int jump2 = 0;
-    // Update is called once per frame
+    Update is called once per frame
     void Update()
     {
         if (change == 0)
@@ -358,28 +358,30 @@ public class pleyercont : MonoBehaviour
 
 フォルダ分けする気がなさすぎるけど、プレハブはちゃんと使ってたり、Inspectorやコンポーネント構成もわりと健全。ゲームがシンプルでUnityに適しているってのもあるんだろうが、今でも触れそうな気がする。教科書に感謝。
 
-// フォルダの画像
+![フォルダの画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/action-assets.png)
 これ（Playerプレハブ）好き。
-// Playerプレハブの画像
+![Playerプレハブの画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/player-prefab.png)
 
 # 致命的なバグを抱える将棋君
 将棋です。将棋の駒を並べるのがめんどくさくて作り始めました。ちなみに「致命的なバグ」がどれかは覚えていないし、将棋は別に強くない。
 
+## できること
 オフライン二人対戦でターンの概念があり、移動予測が出る。普通に動かせるし、成れる（何気にすごくない？）。王を取ったらエラーが出ました。二歩も対応できてない。あとは、取った駒を打つときとかにもバグがあった気がする。
 
-// 将棋プレイ画像
+![将棋プレイ動画](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/syogi.gif)
 
+## モデリング
 このあたりからBlenderを触り始める。モデルもテクスチャも全部自作の記憶（木目の模様はどこかから引っ張ってきたような気もするし、木目ブラシみたいなので描いた気もする）。ちょっと浮いてる感があったりライティングだったり、ツッコミどころはあるが、ぱっと見のクオリティはめちゃいい。
 
-// モデル画像
+![モデル画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/shogi.png)
 
+## その他
 ちなみにこっちは結構神クラスだった。神クラスからしか得られない養分がある。でもほぼ1クラスで完結してる。なんかすごいシンプル。
-// コードの画像
-ちょっとうっとうしいかと思い、全コードはGitHubへ。
-// コードのURL
+![コードの画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/syogi-code.png)
+ちょっとうっとうしいかと思い、全コードは[GitHub](https://github.com/henohenon/qiita/blob/main/codes/child/yamoveb.cs)へ。
 
-相変わらず命名とフォルダ整理はひどい。ってか今でもひどいかも。
-// フォルダの画像
+相変わらず命名とフォルダ整理はひどい。今もそこまで綺麗じゃないが。
+![フォルダの画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/shogi-assets.png)
 
 # 今思うこと
 懐かしいね……当時はゲーム・テレビの時間が制限されてて、友達と放課後遊ぶこともなく、ネットも検索以外で使っていなかったため、本当に純粋に物を作っていた。ゲームとして完成しているとは言い難いけれども、AIのない時代に初心者がここまでやってるって考えたら、なんかすごいねとはなる。あれが幸せだったのかもしれない。
