@@ -66,7 +66,7 @@ https://www.sbcr.jp/product/4815621360/
 
 スイッチを押してから戻るというギミックっぽい。難しすぎるだろ。
 ![ステージ3全体画像](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage03.png)
-[ステージ3クリアgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage03-asretick-clear.gif)
+![ステージ3クリアgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/stage03-asretick-clear.gif)
 
 ## ステージ4
 謎解き面。ペガサスがあんま意味ないなぁと思い、急遽増設した記憶。
