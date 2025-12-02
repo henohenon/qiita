@@ -43,7 +43,7 @@ https://www.sbcr.jp/product/4815621360/
 ## 複数フォーム
 フォームはクウガオマージュ。マイティ、ドラゴン、ペガサス、タイタン。装飾の向きとかが地味に違ったりする。
 
-![マイティgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/maity.gif)
+![マイティgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/maitexi.gif)
 ![ドラゴンgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/dragon.gif)
 ![ペガサスgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/pegasus.gif)
 ![タイタンgif](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/child/titan.gif)
