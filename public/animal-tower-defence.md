@@ -20,7 +20,7 @@ ignorePublish: false
 もうしばらくはこのひどい名称が続きます。よろしくお願いします。
 
 こんな感じのゆるい世界観で、猫と犬が魚を食べまくるという内容です。もうちょっと動いてたタイミングもあったはずなんだけどもう手元にない...gitが渇望されている。
-![ゲーム画面](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/animal-tower-defence/game.png)
+![ゲーム画面](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/animal-tower-defence/game.gif)
 
 経緯としては、ダンジョンウォーフェアというゲームが好きすぎて作り始めました。
 
