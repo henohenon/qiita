@@ -1,7 +1,8 @@
 ---
 title: 動物タワー・ウォーズ ~Blenderの目覚め~
 tags:
-  - ''
+  - 一人アドベントカレンダー
+  - Blender
 private: false
 updated_at: ''
 id: null
