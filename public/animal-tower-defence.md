@@ -82,7 +82,7 @@ https://store.steampowered.com/app/355980/Dungeon_Warfare/
 こうです。こういうビックリドッキリメカ好きなんだよな〜
 ![招き猫発射](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/animal-tower-defence/maneki-fire.png)
 足の裏に肉球があったり、
-![裏](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/animal-tower-defence/maneki-low.png)
+![裏](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/animal-tower-defence/maneki-lower.png)
 展開部分が理論上動くようになってたりします。
 ![ヒンジ](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/animal-tower-defence/hinge.png)
 
