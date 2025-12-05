@@ -13,7 +13,7 @@ ignorePublish: false
 時間ができたこと、身近にコンテストや教材が増えたこと、幅を広げたかったことからWeb開発を開始しました。今回はその初めの頃に作っていたものの紹介です！
 
 ちなみに今東京タワーの600段の階段に座りながら書いています。これを書きたいがためにパソコンを開きました。前々々回の状況を更新できたんじゃないでしょうか。アドカレ中に後一回は更新していきたいところ。
-![タワー](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/n-web-develop/tower.jpeg)
+![タワー](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/n-web-develop/tower.png)
 
 # 文字顔メーカー
 
