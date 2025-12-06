@@ -1,10 +1,10 @@
 ---
 title: 星時計
 tags:
-  - 一人アドベントカレンダー
   - Blender
+  - 一人アドベントカレンダー
 private: true
-updated_at: '2025-12-05T23:46:41+09:00'
+updated_at: '2025-12-06T22:06:36+09:00'
 id: 1a707533e41e8b724461
 organization_url_name: null
 slide: false
