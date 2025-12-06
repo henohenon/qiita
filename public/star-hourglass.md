@@ -100,6 +100,7 @@ https://www.youtube.com/watch?v=qnLSJ3IcVI8
 ![11](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/11.png)
 魔王が押し勝ち、追撃。この辺のカメラ切り替えすごい頑張ってる。
 ![12](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/12.png)
+他にも言えるんだけど、ワンパにならないように互いの攻撃手法を変えていたりして小賢し偉い。
 ![13](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/13.png)
 一度飛ばされる。
 ![14](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/14.png)
@@ -124,9 +125,9 @@ https://www.youtube.com/watch?v=qnLSJ3IcVI8
 ということで覚醒表現。これ本来は7色ぐらいにしたくって〜でも時間なくって〜いやーーークオリティーーーーーーーーーーーー。、。うおー、なんかいたたまれなくなってきた〜。逃げていいか？
 ![23](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/23.png)
 青になって構える
-![25](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/25.png)
+![24](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/24.png)
 戦いはこれからだ！なエンド。俺には(時間的にも精神的にも)納得のいく決着が作れなかったよ...
-![17](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/16.png)
+![25](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/25.png)
 # 今思うこと
 荒削りだ...けど未だに個人の3Dアニメーションとしてはここが最高潮。超えられるきしね〜けど超えて〜〜〜〜。
 
