@@ -98,8 +98,8 @@ https://www.youtube.com/watch?v=qnLSJ3IcVI8
 ![10](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/10.png)
 つばぜり。動画編集の俺が自我を出してる。ぶつかり感は出てる。特にエフェクト。
 ![11](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/11.png)
-![12](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/12.png)
 魔王が押し勝ち、追撃。この辺のカメラ切り替えすごい頑張ってる。
+![12](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/12.png)
 ![13](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/13.png)
 一度飛ばされる。
 ![14](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/14.png)
