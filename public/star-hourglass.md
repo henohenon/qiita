@@ -45,9 +45,9 @@ ignorePublish: false
 
 zenさんとか小咲南緒さんとかにお世話になりながら作ってました。
 
-https://www.youtube.com/watch?v=7oNfgOOcKm8
-
 https://www.youtube.com/watch?v=KdQugpV-Jtc
+
+https://www.youtube.com/watch?v=7oNfgOOcKm8
 
 (南緒さんの言っていた自分のモデルにエロさを感じられるかという言葉が未だに忘れられない。)
 # 魔王
@@ -55,7 +55,6 @@ https://www.youtube.com/watch?v=KdQugpV-Jtc
 ![魔王](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/mao.gif)
 ![魔王覚醒](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/mao-kako.gif)
 色々かっちょいい&恐怖を感じる。我ながら良いモノづくりだ。。。
-これの色を塗ってるタイミングで不幸が重なっていわくを感じ、一時期制作を中断したことがあったり（実話）。
 
 見やすくすると全体こんな感じ。ギミックが良すぎる
 ![白魔王](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/mao-kaku.gif)
@@ -72,7 +71,7 @@ https://www.youtube.com/watch?v=KdQugpV-Jtc
 ![足](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/mao-leg.png)
 
 あとはやっぱこの遠目から見た異形感、強者感。たまらんですな。実際は干渉しまくって動けなさそうだが()
-![白魔王](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/iatu.gif)
+![異形の姿](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/iatu.png)
 # アニメーション
 上記の流れでこの子達が活躍する場がなく、それならばということでアニメーションのコンテストか何かに出した。実際の映像がこれ。
 
@@ -99,16 +98,16 @@ https://www.youtube.com/watch?v=qnLSJ3IcVI8
 ![10](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/10.png)
 つばぜり。動画編集の俺が自我を出してる。ぶつかり感は出てる。特にエフェクト。
 ![11](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/11.png)
-魔王が押し勝ち、追撃。ちなみにこの辺のカメラ切り替えすごい頑張ってる。
 ![12](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/12.png)
-一度飛ばされる。
+魔王が押し勝ち、追撃。この辺のカメラ切り替えすごい頑張ってる。
 ![13](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/13.png)
-ここで魔王が溜めに入る。
+一度飛ばされる。
 ![14](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/14.png)
-ここの走りいい！おそらくこれを最初に使って以降のアニメーションは力尽きてる。
+ここで魔王が溜めに入る。
 ![15](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/15.png)
-魔王の覚醒は正直もうちょっとゆっくり、力強くエフェクト込みとかで見せたいが...時間がなかったのだ。カメラワークで特別感は出してる...!あと元がやっぱパワーある見た目なのもあって力は感じる。
+ここの走りいい！おそらくこれを最初に使って以降のアニメーションは力尽きてる。
 ![16](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/16.png)
+魔王の覚醒は正直もうちょっとゆっくり、力強くエフェクト込みとかで見せたいが...時間がなかったのだ。カメラワークで特別感は出してる...!あと元がやっぱパワーある見た目なのもあって力は感じる。
 ![17](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/17.png)
 吹き飛ばされ。いいアニメーション。ガラスにヒビ入れるとかできたらいいんだろうな〜
 ![18](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/star-hourglass/18.png)
