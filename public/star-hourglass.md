@@ -3,8 +3,8 @@ title: 星時計
 tags:
   - Blender
   - 一人アドベントカレンダー
-private: true
-updated_at: ''
+private: false
+updated_at: '2025-12-07T23:47:19+09:00'
 id: 1a707533e41e8b724461
 organization_url_name: null
 slide: false
