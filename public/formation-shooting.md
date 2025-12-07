@@ -52,11 +52,11 @@ ignorePublish: false
 ただ案外綺麗でしょう？ 何を隠そうこのプロジェクト、3回ぐらい0から作り直しているのです。だからUIが3種類ぐらいあるんですね〜。にしてもだいぶ進化を感じる。ビジュアルプログラミングは偉大なのかもしれない。
 
 もう詳細は量もあって語れませんが、構成は大体こんな感じだった気がします。絶対どこかは間違えてる。
-![クラス図。](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/formation-shooting/classDiagram.png)
+![クラス図。](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/formation-shooting/classDiagram.jpg)
 
 
 飛行機の挙動もマジでこだわってて、PitchとYawの値が来るので、それに合わせてアニメーションされるようになっています。
-![レベル](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/formation-shooting/zeroft-anim.png)
+![零戦](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/formation-shooting/zeroft-anim.gif)
 
 これが戦闘機のパラメーター。各種攻撃方法に場所、キャスト、リキャスト、エフェクト、ダメージ、アニメーションなど無限に詰まってる...恐ろしい。他にもTargetっていうプロパティとかとにかくまぁ色々ある。処理重そ〜どうやってたんだろ。
 ![何これ](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/formation-shooting/nanikore.gif)
