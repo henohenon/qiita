@@ -3,7 +3,7 @@ title: 厚顔無恥
 tags:
   - ポエム
   - 一人アドベントカレンダー
-private: true
+private: false
 updated_at: '2025-12-08T23:35:59+09:00'
 id: ea8d017235e77b7dd1e0
 organization_url_name: null
@@ -16,6 +16,7 @@ ignorePublish: false
 https://note.com/henohenon/n/n8d2fb5b47c75
 
 > 1月に友達に誘われ、暇だったこともあり安請け合い。VTuber作ろうぜってプロジェクトで、動きつける人いないって話だったのでじゃぁやるかってことでLive2dモデラーを志します
+
 （この記事はかなり気合い入れて書いてて、お気に入りでおすすめです。）
 最初はこの記事の通りVTuberの動きをつける人枠として企画に入りました。この友達というのは[前回](https://qiita.com/darknes_henohenon/items/7caa39fc676f220f08eb)、[前々回](https://qiita.com/darknes_henohenon/items/1a707533e41e8b724461)あたりのゲームのチームアップのきっかけと同じ人で、この人には人生を狂わされている気がします。まぁ自分で決めたんだけどね。
 
