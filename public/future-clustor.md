@@ -1,11 +1,11 @@
 ---
 title: 厚顔無恥
 tags:
-  - 一人アドベントカレンダー
   - ポエム
+  - 一人アドベントカレンダー
 private: true
-updated_at: ''
-id: null
+updated_at: '2025-12-08T23:35:59+09:00'
+id: ea8d017235e77b7dd1e0
 organization_url_name: null
 slide: false
 ignorePublish: false
