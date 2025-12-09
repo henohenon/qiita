@@ -12,6 +12,7 @@ ignorePublish: false
 ---
 総集編回！今回はBlender。
 # スプラ武器
+私の愛したゲーム、スプラ。若葉使いでした。
 ![わかば](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/wakaba.png)
 ![スプしゅ](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/splashooter.png)
 # かぼちゃ
@@ -27,15 +28,19 @@ ignorePublish: false
 ![semi](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/semi-semi.png)
 ![semifight](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/semi-fight.png)
 ![semi-tatami-usiro](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/semi-tatami-usiro.png)
+ビジュがとっても自分好みです。
 ![semi-kinkyori](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/semi-kinkyori.png)
+この子達も自作です。~~権利的にはグレーかアウトだったきがします。~~
 ![f15](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/f-15.gif)
 ![f2](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/f2.gif)
 # 風鈴
-一体これはなんなんでしょう。本当にね、なんなんでしょうか。変形が好きです。
+一体これはなんなんでしょう。本当にね、なんなんでしょうか。
 ![風鈴](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/hurin.gif)
+変形っていいですよね。
 # 半への人
 代理的なので作ってた。デザインが痛すぎる。殺してくれ。ギリこれは見てて辛いが勝つ。
 ![半への01](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/hanheno01.png)
+なんかテクスチャおかしくなってる
 ![半への02](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/hanheno02.png)
 ![半への03](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/blender-omnibus/hanheno03.png)
 
