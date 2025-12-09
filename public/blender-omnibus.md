@@ -1,7 +1,8 @@
 ---
 title: Blenderと戯れる
 tags:
-  - ''
+  - Blender
+  - 一人アドベントカレンダー
 private: false
 updated_at: ''
 id: null
