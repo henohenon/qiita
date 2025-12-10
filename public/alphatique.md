@@ -51,7 +51,7 @@ https://help-center.seller-kanrikun.app/guides/finance/pl/
 悪い点で言うと現在お金が発生しているわけではないこと、急にメール返信をお願いされたりすることですね。
 
 まぁ要するにスタートアップ。
----
+
 と言うことでAlphatiqueでは一緒に働いてくれるメンバーを！！募集しているわけではないのですが、
 興味ある方などがいましたら[お問い合わせ](https://alphatique.co.jp/contact/)など送っていただければ喜びます。
 
