@@ -3,7 +3,7 @@ title: 株式会社トラムワークス
 tags:
   - 一人アドベントカレンダー
 private: false
-updated_at: '2025-12-11T23:52:40+09:00'
+updated_at: '2025-12-11T23:58:37+09:00'
 id: 05c68ee34238bd9f6f08
 organization_url_name: null
 slide: false
