@@ -3,7 +3,7 @@ title: 株式会社Alphatique
 tags:
   - 一人アドベントカレンダー
 private: true
-updated_at: '2025-12-10T23:45:13+09:00'
+updated_at: ''
 id: f7c6cc7e09fdd7811b90
 organization_url_name: null
 slide: false
