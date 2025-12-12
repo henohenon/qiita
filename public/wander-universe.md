@@ -1,7 +1,7 @@
 ---
 title: 放浪
 tags:
-  - ''
+  - 一人アドベントカレンダー
 private: false
 updated_at: ''
 id: null
