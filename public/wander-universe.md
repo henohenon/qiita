@@ -15,7 +15,7 @@ ignorePublish: false
 フリーランスをしていた私ですが、全てフルリモート、ネ友とだけ交流という状況で1年ほどを過ごしました。仕事関係で通話は頻繁に行ってたのですが、リアルで誰かと過ごすことがほぼありませんでした。
 よって、北海道の友達とミクさんのイベントで会うのが一番多いとかいう以上事態が爆誕してしまいました。
 
-![calendar](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/tramcwander-universe/calendar.png)
+![calendar](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/wander-universe/calendar.png)
 
 流石にまずいかーと思って、IT関連のイベントに片っ端から出るようになります。ちょうどこの辺りですね。これ以外にもちょくちょく行ってた気がします。
 
@@ -23,14 +23,14 @@ ignorePublish: false
 # lemistral
 https://lemistral.net/
 
-![lemistral](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/tramcwander-universe/lemistral.png)
+![lemistral](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/wander-universe/lemistral.png)
 
 こちらはデザイナーの方が元々運用していたサイトを引き継ぐ形で現在管理させてもらってるものになります。
 そろそろAIを使ってAstroとかに移行できそ〜と思いつつ、テストにかかる工数を考えて踏み切れないでいる。
 # u1w惨敗した
 https://note.com/henohenon/n/nccad50ea1b10
 
-![u1w](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/tramcwander-universe/u1w.gif)
+![u1w](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/wander-universe/u1w.gif)
 
 初のunity1week参戦、惨敗。負けたな〜。ゲームとしては2、3回目のチームアップ。色々と巻き込み、見事に爆散。今思うと、
 - 企画を決められなかった。
@@ -46,7 +46,7 @@ u1wなど、オンラインのイベント系は何度か出たことはある�
 
 ハックツハッカソンという環境が良すぎたのもあるけど、オフラインの合宿万々歳を感じた。
 # マルチスパイダー
-![multiplay](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/tramcwander-universe/multiplay.gif)
+![multiplay](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/wander-universe/multiplay.gif)
 
 google map上ででスパイダーマンレースをする謎のゲーム。
 # 今思うこと
