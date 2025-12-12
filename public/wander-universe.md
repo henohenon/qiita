@@ -3,8 +3,8 @@ title: 放浪
 tags:
   - 一人アドベントカレンダー
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-12T23:53:52+09:00'
+id: 0ca5f8aded8a34d8ad0a
 organization_url_name: null
 slide: false
 ignorePublish: false
