@@ -3,7 +3,7 @@ title: 作るっちゃんとFUファイターズ
 tags:
   - 一人アドベントカレンダー
 private: true
-updated_at: '2025-12-12T23:59:31+09:00'
+updated_at: '2025-12-13T23:59:41+09:00'
 id: 9722e2e2aff895e9ce6d
 organization_url_name: null
 slide: false

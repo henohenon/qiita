@@ -1,11 +1,11 @@
 ---
 title: ゲーム制作への回帰 ~MultiSweeper~
 tags:
-  - 一人アドベントカレンダー
   - Unity
+  - 一人アドベントカレンダー
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-13T23:59:41+09:00'
+id: ee7cdf62efa8f7995fdf
 organization_url_name: null
 slide: false
 ignorePublish: false
