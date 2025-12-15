@@ -3,8 +3,8 @@ title: ポートフォリオと名刺の話
 tags:
   - 一人アドベントカレンダー
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-15T23:21:39+09:00'
+id: 47d60fb2b1db2710758c
 organization_url_name: null
 slide: false
 ignorePublish: false
