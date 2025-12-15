@@ -37,6 +37,10 @@ Hugoベースのシンプルなポートフォリオです。
 この頃のポートフォリオにかざすとARでへのべろすが見えます。手に対して首が追従したり、アニメーションがあったり精度は怪しいですが結構作り込んでました。
 ![へのar](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/profile/henar.gif)
 
+画像認識とかじゃなくてqrコード認識から座標計算とかでちょっとテクいことしてます。
+https://x.com/henohenon_8282/status/1840657265675927774
+
+
 もう手元にないですが、表のデザインはこれでした。
 ![表](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/profile/omote.png)
 
