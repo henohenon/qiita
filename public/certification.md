@@ -1,10 +1,10 @@
 ---
-title: 🟦
+title: "\U0001F7E6"
 tags:
   - 一人アドベントカレンダー
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-16T23:53:19+09:00'
+id: 0190ee4def8dba82878b
 organization_url_name: null
 slide: false
 ignorePublish: false
