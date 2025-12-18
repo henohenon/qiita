@@ -20,9 +20,9 @@ https://github.com/Project-Starlivia
 ![ps-logo](https://raw.githubusercontent.com/Project-Starlivia/.github/refs/heads/main/logo.svg)
 
 全体としては遺伝子のような、多様性+紡がれるイメージ。
-![ps-logo-bg](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/project-starlivia/ps-log-bs.png)
+![ps-logo-bg](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/project-starlivia/ps-logo-bg.png)
 背景の色によって見え方が変わる。PとSっぽくも見える(Pは無理がある)
-![ps-logo-bg](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/project-starlivia/ps-log-katei.png)
+![ps-logo-bg](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/project-starlivia/ps-logo-katei.png)
 検討過程。色についてはその場のノリで決めた。元々赤青のつもりだったのだがなんか逆張りでちょっと見ないよりの色に。
 企画自体が地下でふわふわと遊ぶ用なイメージではあるので、普通に気に入っている。
 # Glimmer
@@ -74,7 +74,7 @@ https://github.com/Project-Starlivia/RhythmGameTemplate
 https://github.com/Project-Starlivia/Strune
 
 ロゴ。流石にobisidianインスパイア。他にも良さげなルーン文字はあったのだが、psの模様にも似ててかっこよかったのでチョイス。
-![strune-logo](https://github.com/Project-Starlivia/Strune/blob/main/logo.svg)
+![strune-logo](https://raw.githubusercontent.com/Project-Starlivia/Strune/refs/heads/main/logo.svg)
 こちらは白黒のシンプル版もある。やりたかっただけ。
 ![strune-logo-list](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/project-starlivia/strune-logo-list.png)
 # 今思うこと
