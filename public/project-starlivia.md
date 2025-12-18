@@ -3,7 +3,7 @@ title: Project Starliviaとロゴデザイン
 tags:
   - 一人アドベントカレンダー
 private: false
-updated_at: '2025-12-19T00:10:23+09:00'
+updated_at: '2025-12-19T00:12:41+09:00'
 id: f59c2b3d7daf6096eca4
 organization_url_name: null
 slide: false
