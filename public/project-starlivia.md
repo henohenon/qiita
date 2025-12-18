@@ -73,7 +73,7 @@ https://github.com/Project-Starlivia/RhythmGameTemplate
 
 https://github.com/Project-Starlivia/Strune
 
-ロゴ。流石にobisidianインスパイア。
+ロゴ。流石にobisidianインスパイア。他にも良さげなルーン文字はあったのだが、psの模様にも似ててかっこよかったのでチョイス。
 ![strune-logo](https://github.com/Project-Starlivia/Strune/blob/main/logo.svg)
 こちらは白黒のシンプル版もある。やりたかっただけ。
 ![strune-logo-list](https://raw.githubusercontent.com/henohenon/qiita/refs/heads/main/images/project-starlivia/strune-logo-list.png)
