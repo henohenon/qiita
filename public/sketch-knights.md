@@ -3,8 +3,8 @@ title: Iwaken Lab.とSketch Knights
 tags:
   - 一人アドベントカレンダー
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-20T23:59:49+09:00'
+id: e58efbc45ff46ded64ba
 organization_url_name: null
 slide: false
 ignorePublish: false
