@@ -1,7 +1,7 @@
 ---
 title: Iwaken Lab.とSketch Knights
 tags:
-  - ''
+  - 一人アドベントカレンダー
 private: false
 updated_at: ''
 id: null
