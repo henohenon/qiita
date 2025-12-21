@@ -1,7 +1,7 @@
 ---
 title: memOriedit
 tags:
-  - ''
+  - 一人アドベントカレンダー
 private: false
 updated_at: ''
 id: null
