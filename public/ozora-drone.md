@@ -3,6 +3,8 @@ title: 株式会社Ozora
 tags:
   - 一人アドベントカレンダー
 private: true
+updated_at: ''
+id: ''
 slide: false
 ignorePublish: false
 ---
