@@ -3,8 +3,8 @@ title: Hexamagia ~音ゲーを作ろう~
 tags:
   - 一人アドベントカレンダー
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-23T23:52:39+09:00'
+id: 898296d1abd3031ec543
 organization_url_name: null
 slide: false
 ignorePublish: false

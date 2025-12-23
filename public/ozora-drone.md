@@ -2,8 +2,8 @@
 title: 株式会社Ozora
 tags:
   - 一人アドベントカレンダー
-private: true
-updated_at: ''
+private: false
+updated_at: '2025-12-23T23:52:39+09:00'
 id: 364dec985009524d93c8
 organization_url_name: null
 slide: false
