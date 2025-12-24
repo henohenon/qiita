@@ -3,8 +3,8 @@ title: アドベントカレンダー執筆の振り返り
 tags:
   - 一人アドベントカレンダー
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-24T23:59:08+09:00'
+id: d69eec3b74231685b80a
 organization_url_name: null
 slide: false
 ignorePublish: false
