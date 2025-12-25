@@ -1,11 +1,11 @@
 ---
 title: ゲームを作りたいなぁ
 tags:
-  - 一人アドベントカレンダー
   - ゲーム制作
+  - 一人アドベントカレンダー
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-25T23:33:00+09:00'
+id: 78a0fbb49ad7eda7181b
 organization_url_name: null
 slide: false
 ignorePublish: false
